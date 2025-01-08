@@ -1,0 +1,7 @@
+CNN_VGG16.py versions:
+tensorflow==2.9.1
+scikit-learn==1.2.2
+
+VGG16 trained model == food_classifier_model.h5
+
+VGG16 evaluation script: VGG16_evaluation.py
